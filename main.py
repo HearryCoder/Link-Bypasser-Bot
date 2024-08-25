@@ -206,13 +206,13 @@ def send_start(
                 [
                     InlineKeyboardButton(
                         "🌐 Source Code",
-                        url="https://github.com/bipinkrish/Link-Bypasser-Bot",
+                        url="https://t.me/code_lelo/2",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Replit",
-                        url="https://replit.com/@bipinkrish/Link-Bypasser#app.py",
+                        "🧑‍💻 Owner",
+                        url="tg://settings",
                     )
                 ],
             ]
