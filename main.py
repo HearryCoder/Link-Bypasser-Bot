@@ -27,8 +27,8 @@ def getenv(var):
 
 
 bot_token = getenv("TOKEN")
-api_hash = getenv("HASH")
-api_id = getenv("ID")
+api_hash = getenv("3f779654fdd3b9278fd95869aabf4593")
+api_id = getenv("17584090")
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 with app:
     app.set_bot_commands(
